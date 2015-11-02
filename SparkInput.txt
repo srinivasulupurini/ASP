@@ -1,0 +1,4 @@
+2012,William,Newyork,28,80
+2012,randy,Chicago,28,85
+2012,JULIA,NewJersey,29,32
+2012,randy,Washington,30,35
